@@ -1,2 +1,2 @@
 # JavaScript Coding
-this is my project
+these are my project
